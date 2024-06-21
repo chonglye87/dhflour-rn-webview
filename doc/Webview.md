@@ -60,8 +60,15 @@ iOS에서 실행하려면 먼저 CocoaPods를 설치하고 `ios` 디렉토리에
 
 ```bash
 cd ios
+```
+```bash
 pod install
+```
+```bash
 cd ..
+```
+
+```bash
 npx react-native run-ios
 ```
 
